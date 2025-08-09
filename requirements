@@ -1,0 +1,5 @@
+# Packages
+python-telegram-bot==22.3
+gspread==6.2.1
+python-dotenv==1.1.1
+google-auth==2.40.3
