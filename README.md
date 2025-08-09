@@ -16,7 +16,7 @@ A Telegram bot to log expenses into Google Sheets.
 - A Google Cloud **service account** JSON key
 - A Google Sheet shared with the service account (Editor access)
 
-#### Note: If you are unsure of how to set up the Google Cloud and sheet, click [here](here).
+#### Note: If you are unsure of how to set up the Google Cloud and sheet, click [here](GoogleCloudSetup.md).
 
 ---
 
